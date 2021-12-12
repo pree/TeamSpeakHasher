@@ -81,3 +81,4 @@ TeamSpeakHasher is licensed under the MIT license. See `LICENSE` for more inform
 ## Credits
 
 An unoptimized SHA1 implementation (see `Kernel.h`) has been reused from the [hashcat](https://hashcat.net/hashcat/) project.
+.
